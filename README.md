@@ -14,3 +14,7 @@ Lecture summary:
      - [P5](http://acm.hdu.edu.cn/showproblem.php?pid=6397) (Not the same exact question, but very similar)
      - P6 (Not from a particular question, but all uses of catalan numbers can be found [here](https://usaco.guide/adv/catalan?lang=cpp))
      - P7 (original, [method used](https://cp-algorithms.com/num_methods/roots_newton.html))
+
+## Lecture 2 (Game Theory) 
+  * Discussion on Nim Game and Grundy Numbers
+  * Lecturer : Shreyans Garg
