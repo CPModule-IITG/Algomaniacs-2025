@@ -18,3 +18,12 @@ Lecture summary:
 ## Lecture 2 (Game Theory) 
   * Discussion on Nim Game and Grundy Numbers
   * Lecturer : Shreyans Garg
+  * 
+## Lecture 3 (Bit Maniulation) 
+  * Discussion on Bit Manipulation and DP on Bits
+  * Lecturer : Shrivathsa
+  * 
+## Lecture 4 (Segment Trees) 
+
+  * Discussion on Segment Trees and their uses
+  * Lecturer : Dhruva Sarawgi and Anant Bansal
