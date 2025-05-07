@@ -27,3 +27,12 @@ Lecture summary:
 
   * Discussion on Segment Trees and their uses
   * Lecturer : Dhruva Sarawgi and Anant Bansal
+  * 
+## Lecture 5 (Strings)
+  * Discussion on Strings and related data structures
+  * Lecturer : Tanmay Mittal
+  * 
+## Lecture 6 (Dynamic Programming)
+  * Discussion on Dynamic Programming
+  * Lecturer : Shobhit Gupta
+  * 
