@@ -29,7 +29,7 @@ Lecture summary:
   * Lecturer : Dhruva Sarawgi and Anant Bansal
   * 
 ## Lecture 5 (Strings)
-  * Discussion on Strings and related data structures
+  * Discussion on String Hashing and related data structures
   * Lecturer : Tanmay Mittal
   * 
 ## Lecture 6 (Dynamic Programming)
